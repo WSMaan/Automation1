@@ -7,7 +7,7 @@ public class Login {
     public void sample_1() {
         System.out.println("sample 1");
         System.out.println("new comment");
-        System.out.println("Change in Master");
+        System.out.println("Change in Mster");
         System.out.println("New comment");}
     @When("^sample 2$")
     public void sample_2()  {
