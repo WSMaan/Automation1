@@ -7,8 +7,8 @@ public class Login {
     public void sample_1() {
         System.out.println("GTI REBASE COMMENT");
         System.out.println("GTI REBASE COMMENT");
-        System.out.println("new comment");
-        System.out.println("New comment");}
+    }       
+ 
     @When("^sample 2$")
     public void sample_2()  {
         System.out.println("sample 2");}
