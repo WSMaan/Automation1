@@ -6,6 +6,7 @@ public class Login {
     @Given("^sample 1$")
     public void sample_1() {
         System.out.println("GTI REBASE COMMENT");
+        System.out.println("GTI REBASE COMMENT");
         System.out.println("new comment");
         System.out.println("New comment");}
     @When("^sample 2$")
