@@ -15,6 +15,6 @@ public class Login {
         System.out.println("sample 2");}
     @Then("^sample 3$")
     public void sample_3() {
-        System.out.println1("sample 3");
+        System.out.println("sample 3");
     }
 }
