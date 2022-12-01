@@ -5,8 +5,9 @@ import io.cucumber.java.en.When;
 public class Login {
     @Given("^sample 1$")
     public void sample_1() {
+       
         System.out.println("GTI REBASE COMMENT");
-        System.out.println("GTI REBASE COMMENT");
+    System.out.println("pipeline build");
     }       
  
     @When("^sample 2$")
